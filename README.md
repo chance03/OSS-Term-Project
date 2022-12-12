@@ -7,7 +7,7 @@
 Left screen is the program, right screen is git bash which is used to open the program.
 
 
-![video](https://youtu.be/T2OjW052D-Y)
+[Video](https://youtu.be/T2OjW052D-Y)
 
 ---
 ### Used Package
